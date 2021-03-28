@@ -5,6 +5,6 @@
 
 **GitHub Stats**
 
-![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=IVIosi&count_private=true&show_icons=true)
+![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=IVIosi&count_private=true&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IVIosi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IVIosi&layout=compact&theme=onedark)
